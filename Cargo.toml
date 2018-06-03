@@ -1,0 +1,12 @@
+[package]
+name = "rusty"
+version = "0.1.0"
+authors = ["S Stewart <iamtheworst@programmer.net>"]
+
+[dependencies]
+serenity = "0.5"
+slog = "2.2.3"
+sloggers = "0.2.6"
+serde = "1.0"
+serde_json = "1.0"
+serde_derive = "1.0"
